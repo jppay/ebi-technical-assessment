@@ -5,7 +5,8 @@
 - Install Python 3.x
 
 ## 2. Install requirements
-```
+  Extract the contents of zip file into a workspace directory and navigate as follows
+  ```
 cd DRS_Starter_Kit
 ```
 ```
@@ -51,7 +52,9 @@ GET
 http://localhost:5000/ga4gh/drs/v1/objects/8e18bfb64168994489bc9e7fda0acd4f
 ```
 **Expected Response Status Code:** 200
-
+  
+## 8. Testing the service  
+To test the service, refer to the instructions in the Testing folder  
 ## NOTE: 
 when you are done using the DRS Starter Kit, to bring down the docker containers use the following commands
 ```
